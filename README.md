@@ -1,13 +1,13 @@
-![alt text](logo.png)
+![alt text](./img/logo.png)
 
-<!-- <img src="./logo.png" alt="logo" width="300"/> -->
+<!-- <img src="./img/logo.png" alt="logo" width="300"/> -->
 
 <!-- <div class="row">
   <div class="column">
-    <img src="./logo.png" alt="logo"  style="float: left;width:40%">
+    <img src="./img/logo.png" alt="logo"  style="float: left;width:40%">
   </div>
   <div class="column">
-    <img src="./logo.png" alt="logo"  style="float: right;width:40%">
+    <img src="./img/logo.png" alt="logo"  style="float: right;width:40%">
   </div>
 </div> -->
 
